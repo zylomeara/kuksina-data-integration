@@ -1,0 +1,4 @@
+.idea/
+target/
+src/main/resources/data/Customer1/*
+src/main/resources/data/Customer2/*
